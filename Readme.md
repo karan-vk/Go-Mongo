@@ -1,5 +1,18 @@
 # GO + MONGODB
 
+## Environment
+
+```
+go-version = 1.17.2
+```
+```env
+MONGO_URI=mongodb://admin:OuOp66RvQpGma6u0@SG-sud-47257.servers.mongodirector.com:27017/admin
+DB=sud
+PORT=3000
+APP_ENV=development
+JWT_SECRET=dfsodhfjksh35453d45jk4534f5hs45d3l45fhadkhfadhu345234
+```
+
 ## Create User
 ```[POST] /api/user ```
 ### Body
